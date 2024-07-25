@@ -1,0 +1,147 @@
+.subscribe-button{
+    background-color:rgb(200, 0, 0);
+    color:white;
+    border:none;
+    padding-left: 12px ;
+    padding-right: 12px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 2px;
+    cursor: pointer;
+    margin-right: 8px;
+    transition: opacity 0.15s;
+   } 
+   .subscribe-button:hover{
+      opacity: 0.8;
+   }
+   .subscribe-button:active{
+      opacity: 0.5;
+   }
+
+   .join-button{
+      border-color: rgb(41,118,211);
+      color:rgb(41,118,211);
+      cursor:pointer;
+      width: 62px;
+      height: 36px;
+      background-color: white;
+      border-width: 1px;
+      border-style:solid;
+      border-radius: 2px;
+      transition: background-color 1s,color
+      1s
+
+   }
+   .join-button:hover{
+      background-color:rgb(41,118,211) ;
+      color: white;
+   }
+   .join-button:active{
+      opacity: 0.7;
+   }
+
+   .tweet-button{
+      background-color: rgb(2, 137, 255);
+      color: white;
+      cursor: pointer;
+      border: none;
+      width: 74px;
+      height: 36px;
+      border-style:round;
+      border-radius: 20px;
+      font-weight: bold;
+      font-size: 15px;
+      margin-left: 8px;
+      box-shadow: 10px 10px 10px rgba(0,0,0,0.6);
+
+   }
+   .tweet-button:hover{
+      box-shadow: 10px 10px 10px rgba(0,0,0,0.6);
+
+   }
+   .requestnow-button{
+      background-color: black;
+      color: white;
+      cursor: pointer;
+      border: none;
+      width: 100px;
+      height: 36px;
+      margin-left: 8px;
+
+   }
+   .addtocart-button{
+      background-color: rgb(255,261,20);
+      color:black;
+      cursor: pointer;
+      width: 155px;
+      height: 36px;
+      border-style: none;
+      border-radius: 18px;
+      margin-left: 8px;
+      font-weight: normal;
+
+   }
+   .addtocart-button:hover{
+      opacity: 0.6;
+   }
+   .addtocart-button:active{
+      opacity: 0.5;
+   }
+   .signup-button{
+      background-color: rgb(46,164,79);
+      color: white;
+      width: 80px;
+      height: 36px;
+      border-radius: 5px;
+      cursor: pointer;
+      margin-left: 8px;
+      border: none;
+      font-weight: bold;
+   }
+   .getstarted-button{
+      background-color: rgb(121,82,179);
+      color: white;
+      border: none;
+      margin-left: 8px;
+      width: 105px;
+      height: 36px;
+      font-weight: bold;
+      border-radius: 2px;
+      cursor: pointer;
+   }
+   .download-button{
+      background-color: rgb(246, 249, 251);
+      color: blueviolet;
+      border-radius: 2px;
+      width: 105px;
+      height: 36px;
+      border-color: blueviolet;
+      margin-left: 8px;
+      cursor: pointer;
+      font-weight: bold;
+      margin-top: 8px;
+   }
+   .applyoncompanywebsite-button{
+      background-color: rgb(10,102,194);
+      color: white;
+      width: 200px;
+      height: 36px;
+      font-weight: bold;
+      cursor: pointer;
+      margin-left: 8px;
+      border: none;
+      border-radius: 20px;
+      margin-top: 8px;
+   }
+   .save-button{
+      background-color: white;
+      color: rgb(10,102,194);
+      cursor: pointer;
+      width: 74px;
+      height: 36px;
+      font-weight: bold;
+      border-radius: 20px;
+      margin-top: 8px;
+      margin-left: 8px;
+      border-color: rgb(10,102,194);
+   }
